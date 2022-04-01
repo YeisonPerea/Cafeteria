@@ -1,5 +1,8 @@
 # Cafeteria
-Prueba en java para la empresa Konecta 
+Prueba en java para la empresa Konecta
+
+La prueba esta en un archivo comprimido, solo hay que extraerlo y se puede subir a netbeans o ha eclipse.
+Dentro del archivo comprimido esta la base de datos y el conector mysql de java (Driver).
 
 Consultas SQL.
 
